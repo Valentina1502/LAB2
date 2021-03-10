@@ -1,1 +1,2 @@
-fix in the 1.txt
+<<<<<<< HEAD
+My fix in the 1.txt
